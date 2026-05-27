@@ -20,3 +20,4 @@ Como reto personal y académico me propongo fortalecer mis conocimientos en did�
 
 De igual manera, me planteo mejorar mis conocimientos en matemáticas para sentirme más preparada y segura al momento de enseñar, logrando así contribuir de manera positiva al aprendizaje y desarrollo integral de los niños en la primera infancia.
 
+**Calificación que me asigno: 4.5 / 5.0**
