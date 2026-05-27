@@ -1,24 +1,19 @@
 ---
-integrante: "Ana García López"
-periodo: "Primer semestre 2025"
-descripcion: "Reflexión sobre mi proceso de aprendizaje y crecimiento profesional durante este semestre."
+integrante: "Mariana Villamizar Medina"
+periodo: "Primer semestre 2026"
+descripcion: ""
 orden: 1
 ---
 
-## ¿Qué aprendí?
+Autoevaluación: fortalezas, aspectos por mejorar y retos que me planteo
 
-Este semestre ha sido un recorrido intenso y enriquecedor. Aprendí a diseñar situaciones didácticas centradas en el estudiante, a fundamentar teóricamente mis decisiones pedagógicas y a reflexionar críticamente sobre mi práctica.
+Fortalezas:
+Como estudiante de Licenciatura en Educación Infantil, considero que una de mis principales fortalezas es el compromiso y la responsabilidad frente al curso de didáctica de las matemáticas. Siempre participo activamente en clase, asisto con disposición, realizo las actividades propuestas y mantengo una actitud positiva frente al aprendizaje. Me esfuerzo por dar lo mejor de mí, trabajar con dedicación y aportar ideas que enriquezcan mi proceso formativo.
 
-## ¿Qué me falta por mejorar?
+Aspectos por mejorar:
+Aunque considero que he tenido un buen desempeño, reconozco que puedo mejorar fortaleciendo algunos conocimientos matemáticos y profundizando más en estrategias didácticas para la enseñanza. También puedo organizar mejor mi tiempo en ciertas actividades para seguir mejorando la calidad de mis trabajos y hacerlos más creativos.
 
-Reconozco que debo fortalecer mi capacidad para gestionar el tiempo en el aula y para atender con mayor efectividad a los estudiantes que presentan dificultades específicas de aprendizaje. También necesito profundizar en estrategias de evaluación diferenciada.
+Retos que me planteo:
+Como reto, me propongo continuar fortaleciendo mis aprendizajes en matemáticas y en las didácticas para aplicarlas de manera significativa en mi formación como futura docente. También quiero seguir participando activamente, aprender nuevas metodologías de enseñanza y desarrollar estrategias innovadoras que favorezcan el aprendizaje de los niños de manera dinámica y significativa.
 
-## ¿Qué me llevo de esta experiencia?
-
-Me llevo la certeza de que la docencia es una profesión en permanente construcción, que exige reflexión constante, disposición para el cambio y un compromiso genuino con el bienestar y el aprendizaje de los estudiantes.
-
-## Valoración del trabajo en equipo
-
-El trabajo con mis compañeras fue una experiencia de aprendizaje en sí misma. Aprendí a escuchar diferentes perspectivas, a negociar ideas y a construir consensos. El equipo se complementó muy bien y eso se reflejó en la calidad de nuestros productos.
-
-**Calificación que me asigno: 4.3 / 5.0**
+**Calificación que me asigno: 4.5 / 5.0**

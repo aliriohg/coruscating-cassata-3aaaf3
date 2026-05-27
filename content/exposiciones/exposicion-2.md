@@ -1,24 +1,10 @@
 ---
-titulo: "Evaluación Formativa: Más allá de las Notas"
-fecha: "2025-04-12"
-descripcion: "Presentación sobre herramientas e instrumentos de evaluación formativa que favorecen la retroalimentación continua y el aprendizaje autorregulado."
-integrante: "María Rodríguez Torres"
+titulo: "El pensamiento numérico y sistema numérico"
+fecha: ""
+descripcion: ""
+integrante: "Ana Sofia Tavera, Mariana Villamizar, Maria Alejandra Rodriguez"
+imagen: "exposiciones/expo2.png"
 archivo: ""
 orden: 2
 ---
-
-## Tema central
-
-La evaluación formativa como proceso continuo que permite al docente y al estudiante monitorear el progreso del aprendizaje y ajustar las estrategias pedagógicas en consecuencia.
-
-## Herramientas presentadas
-
-- **Rúbricas de evaluación:** Criterios claros y niveles de desempeño
-- **Portafolios de evidencias:** Colección sistemática de trabajos del estudiante
-- **Evaluación entre pares:** Aprender evaluando a los compañeros
-- **Diarios reflexivos:** Escritura como herramienta de metacognición
-- **Kahoot y Mentimeter:** Herramientas digitales para evaluación formativa interactiva
-
-## Conclusiones
-
-Evaluar es más que asignar una nota: es un proceso dialogante que potencia el aprendizaje cuando se hace de manera formativa y continua.
+El pensamiento numérico y sistema numérico es una habilidad matemática que permite comprender, representar y usar los números en diferentes situaciones de la vida cotidiana. Este pensamiento ayuda a desarrollar capacidades como contar, comparar, resolver problemas, realizar operaciones básicas y entender relaciones entre cantidades. Además, el sistema numérico organiza los números y sus reglas, facilitando el aprendizaje de las matemáticas y el razonamiento lógico.

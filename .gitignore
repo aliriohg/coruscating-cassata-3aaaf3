@@ -1,0 +1,30 @@
+# Dependencias
+node_modules/
+
+# Build output
+dist/
+.output/
+
+# Generado por content-collections
+.content-collections/
+
+# Netlify
+.netlify
+
+# Variables de entorno
+.env
+.env.local
+.env.*.local
+
+# Caché y logs
+.cache/
+*.log
+npm-debug.log*
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/

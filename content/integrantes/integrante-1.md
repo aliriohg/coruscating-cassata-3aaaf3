@@ -1,11 +1,10 @@
 ---
-nombre: "Ana García López"
-rol: "Coordinadora del grupo"
-descripcion: "Estudiante de quinto semestre apasionada por la pedagogía activa y las nuevas metodologías de enseñanza. Me interesa especialmente el aprendizaje basado en proyectos y la integración de las TIC en el aula."
-foto: ""
+nombre: "Mariana Villamizar Medina"
+rol: ""
+descripcion: ""
+foto: "integrantes/mariana.png"
 orden: 1
 ---
 
-Soy estudiante de Licenciatura en Educación. Ingresé a la universidad con el sueño de transformar la educación desde el aula, apostando por metodologías innovadoras que pongan al estudiante en el centro del aprendizaje.
-
-Durante este semestre he trabajado en proyectos de investigación sobre evaluación formativa y participé en el seminario de prácticas pedagógicas reflexivas.
+Mi nombre es Mariana Villamizar Medina, tengo 19 años y actualmente estudio la Licenciatura en Educación Infantil. En este momento me encuentro cursando la asignatura de Didácticas de las Matemáticas, un espacio académico en el que estoy dispuesta a aprender mucho para fortalecer mis conocimientos y alcanzar mis metas y objetivos personales y profesionales. 
+Me considero una persona comprometida con mi proceso de formación, siempre con disposición para adquirir nuevos aprendizajes. En mi tiempo libre, disfruto mucho compartir momentos con mi familia, ya que los amo profundamente y valoro el tiempo junto a ellos. Además, tengo una perrita llamada Lupe, de raza schnauzer, quien es una compañía muy especial para mí. Actualmente, vivo con mi mamá.
