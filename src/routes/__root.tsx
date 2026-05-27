@@ -1,4 +1,4 @@
-import { HeadContent, Link, Scripts, createRootRoute, useLocation } from '@tanstack/react-router'
+import { Link, Outlet, createRootRoute, useLocation } from '@tanstack/react-router'
 import { useState } from 'react'
 import { Menu, X, GraduationCap } from 'lucide-react'
 import '../styles.css'
@@ -14,14 +14,7 @@ const navLinks = [
 ]
 
 export const Route = createRootRoute({
-  head: () => ({
-    meta: [
-      { charSet: 'utf-8' },
-      { name: 'viewport', content: 'width=device-width, initial-scale=1' },
-      { title: 'Portafolio Pedagógico – Grupo 3' },
-    ],
-  }),
-  shellComponent: RootDocument,
+  component: RootLayout,
 })
 
 function NavBar() {
@@ -36,7 +29,6 @@ function NavBar() {
           <span>Portafolio Pedagógico</span>
         </Link>
 
-        {/* Desktop nav */}
         <nav className="hidden lg:flex items-center gap-1">
           {navLinks.map((link) => {
             const isActive = location.pathname === link.to
@@ -56,7 +48,6 @@ function NavBar() {
           })}
         </nav>
 
-        {/* Mobile menu button */}
         <button
           className="lg:hidden p-2 rounded-md hover:bg-violet-600 transition-colors"
           onClick={() => setOpen(!open)}
@@ -66,7 +57,6 @@ function NavBar() {
         </button>
       </div>
 
-      {/* Mobile menu */}
       {open && (
         <nav className="lg:hidden bg-violet-800 px-4 pb-4 flex flex-col gap-1">
           {navLinks.map((link) => {
@@ -92,20 +82,16 @@ function NavBar() {
   )
 }
 
-function RootDocument({ children }: { children: React.ReactNode }) {
+function RootLayout() {
   return (
-    <html lang="es">
-      <head>
-        <HeadContent />
-      </head>
-      <body className="min-h-screen bg-gray-50">
-        <NavBar />
-        <main>{children}</main>
-        <footer className="bg-violet-700 text-white text-center py-4 text-sm mt-12">
-          <p>Portafolio Pedagógico · Grupo 3 · {new Date().getFullYear()}</p>
-        </footer>
-        <Scripts />
-      </body>
-    </html>
+    <>
+      <NavBar />
+      <main>
+        <Outlet />
+      </main>
+      <footer className="bg-violet-700 text-white text-center py-4 text-sm mt-12">
+        <p>Portafolio Pedagógico · Grupo 3 · {new Date().getFullYear()}</p>
+      </footer>
+    </>
   )
 }
