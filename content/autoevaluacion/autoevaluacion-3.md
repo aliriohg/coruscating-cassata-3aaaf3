@@ -22,4 +22,4 @@ Como reto personal y profesional, me propongo aprender nuevas metodologías de e
 
 De igual manera, me planteo desarrollar estrategias innovadoras y dinámicas que fortalezcan el aprendizaje de los niños, promoviendo la participación, el pensamiento lógico y el gusto por las matemáticas desde la primera infancia. Finalmente, quiero continuar formándome como una docente comprometida, reflexiva y capaz de generar ambientes de aprendizaje motivadores e inclusivos.
 
-**Calificación que me asigno: 4.4 / 5.0**
+**Calificación que me asigno: 4.5 / 5.0**
