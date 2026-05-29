@@ -19,9 +19,28 @@ function SituacionesDidacticas() {
           </div>
           <h1 className="text-3xl font-bold text-gray-900">Situaciones Didácticas</h1>
         </div>
-        <p className="text-gray-600">
-          Diseño e implementación de situaciones didácticas en contextos reales de aula.
-        </p>
+        <div className="text-gray-600 space-y-3">
+          <p>
+            La teoría de situaciones didácticas fue propuesta por Guy Brousseau y explica cómo los
+            estudiantes construyen conocimientos a través de situaciones de aprendizaje creadas por
+            el docente. Esta teoría busca que el estudiante participe activamente, explore, piense y
+            descubra soluciones por sí mismo, mientras el maestro guía el proceso de manera organizada.
+          </p>
+          <p className="font-medium text-gray-700">Sus principales momentos son:</p>
+          <ul className="space-y-1.5 pl-1">
+            {[
+              { nombre: 'Acción', desc: 'el estudiante se enfrenta a una situación o problema y comienza a explorar posibles soluciones utilizando sus conocimientos previos y experiencias.' },
+              { nombre: 'Formulación', desc: 'el estudiante expresa sus ideas, explica procedimientos y comparte estrategias con otros, utilizando el lenguaje oral, escrito o gráfico.' },
+              { nombre: 'Validación', desc: 'se analizan y comprueban las respuestas obtenidas. Los estudiantes argumentan por qué consideran correcta una solución y comparan diferentes resultados.' },
+              { nombre: 'Institucionalización', desc: 'el docente organiza y formaliza el conocimiento construido, relacionándolo con los conceptos o aprendizajes que se desean enseñar.' },
+            ].map(({ nombre, desc }) => (
+              <li key={nombre} className="flex gap-2">
+                <span className="mt-1.5 w-1.5 h-1.5 rounded-full bg-amber-500 flex-shrink-0" />
+                <span><span className="font-semibold text-gray-800">{nombre}:</span> {desc}</span>
+              </li>
+            ))}
+          </ul>
+        </div>
       </div>
 
       <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4 items-start">
